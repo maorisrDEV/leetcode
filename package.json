@@ -1,0 +1,19 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "my leetcode solutions",
+  "main": "104. Maximum Depth of Binary Tree.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maorisrDEV/leetcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maorisrDEV/leetcode/issues"
+  },
+  "homepage": "https://github.com/maorisrDEV/leetcode#readme"
+}
