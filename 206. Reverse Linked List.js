@@ -41,14 +41,12 @@ class Node {
 /* Function to reverse the linked list */
 function reverse(head) {
   let prev = null;
-  let current = head;
-  while (current != null) {
+  while (head != null) {
     let next = current.next;
     current.next = prev;
     prev = current;
     current = next;
   }
-  node = prev;
   return node;
 }
 
